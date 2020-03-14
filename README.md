@@ -1,4 +1,4 @@
-# firebase_mlkit
+# Firebase Ml-Kit with Flutter
 
 A new Flutter project.
 
